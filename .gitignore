@@ -1,0 +1,8 @@
+packages
+bin
+obj
+/*.suo
+.vs
+.idea
+node_modules
+bundle.js
